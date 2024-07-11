@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupdv
 - 👀 I’m interested in Game Devolpment
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email - rupjyotibaro08@gmail.com
 - 😄 Pronouns: He/him
